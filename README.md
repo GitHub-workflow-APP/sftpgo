@@ -5,8 +5,8 @@
 [![License: AGPL-3.0-only](https://img.shields.io/badge/License-AGPLv3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Mentioned in Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)
 
-Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV dcf.
-Several storage backends are supported: local filesystem, encrypted local filesystem, S3 (compatible) Object Storage, Google Cloud Storage, Azure Blob Storage, .
+Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV.
+Several storage backends are supported: local filesystem, encrypted local filesystem, S3 (compatible) Object Storage, Google Cloud Storage, Azure Blob , .
 
 ## Sponsors
 
